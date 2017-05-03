@@ -13,3 +13,4 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
+* Whatever you decide, attempt to avoid creating time paradoxes!
